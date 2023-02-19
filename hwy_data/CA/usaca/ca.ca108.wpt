@@ -1,16 +1,16 @@
 CA99/132 http://www.openstreetmap.org/?lat=37.639213&lon=-121.006856
-CA132/99Bus_S +CA99Bus_N http://www.openstreetmap.org/?lat=37.641210&lon=-121.002979
+CA132/99Bus_S http://www.openstreetmap.org/?lat=37.641210&lon=-121.002979
 NeeSt_W http://www.openstreetmap.org/?lat=37.645715&lon=-120.997126
 17thSt http://www.openstreetmap.org/?lat=37.645619&lon=-120.993724
 BriAve http://www.openstreetmap.org/?lat=37.670488&lon=-120.994020
 StaAve http://www.openstreetmap.org/?lat=37.689084&lon=-120.994299
 ClaAve http://www.openstreetmap.org/?lat=37.699928&lon=-120.994523
 CA219 http://www.openstreetmap.org/?lat=37.711108&lon=-120.994900
-CRJ3 +CHJ3 http://www.openstreetmap.org/?lat=37.731020&lon=-120.995189
+CRJ3 http://www.openstreetmap.org/?lat=37.731020&lon=-120.995189
 OakRd http://www.openstreetmap.org/?lat=37.732667&lon=-120.958684
 PatRd_E http://www.openstreetmap.org/?lat=37.732851&lon=-120.945424
-CRJ7_N +1stSt http://www.openstreetmap.org/?lat=37.737956&lon=-120.938970
-CRJ7_S +ClaRd http://www.openstreetmap.org/?lat=37.737109&lon=-120.922227
+CRJ7_N http://www.openstreetmap.org/?lat=37.737956&lon=-120.938970
+CRJ7_S http://www.openstreetmap.org/?lat=37.737109&lon=-120.922227
 WalRd http://www.openstreetmap.org/?lat=37.751139&lon=-120.903468
 CraRd http://www.openstreetmap.org/?lat=37.754733&lon=-120.881613
 CA120_W http://www.openstreetmap.org/?lat=37.766634&lon=-120.847013
@@ -31,14 +31,14 @@ WasSt http://www.openstreetmap.org/?lat=37.967835&lon=-120.378378
 CA108BusSon_W http://www.openstreetmap.org/?lat=37.976342&lon=-120.357880
 HessAve http://www.openstreetmap.org/?lat=37.980052&lon=-120.336492
 PeaOakRd http://www.openstreetmap.org/?lat=37.980426&lon=-120.316891
-MonoWay_E +CA108BusSon_E http://www.openstreetmap.org/?lat=37.982011&lon=-120.298113
+MonoWay_E http://www.openstreetmap.org/?lat=37.982011&lon=-120.298113
 SouRd http://www.openstreetmap.org/?lat=37.996546&lon=-120.267366
 CA108BusTwa_W http://www.openstreetmap.org/?lat=38.019668&lon=-120.246772
 +X207775 http://www.openstreetmap.org/?lat=38.022199&lon=-120.241456
 CA108BusTwa_E http://www.openstreetmap.org/?lat=38.039211&lon=-120.217643
 MidCampRd http://www.openstreetmap.org/?lat=38.059563&lon=-120.200697
 SieParkRd http://www.openstreetmap.org/?lat=38.065531&lon=-120.184658
-LyoDamRd +LyoResRd http://www.openstreetmap.org/?lat=38.078920&lon=-120.163511
+LyoDamRd http://www.openstreetmap.org/?lat=38.078920&lon=-120.163511
 LyoCrkRd http://www.openstreetmap.org/?lat=38.090937&lon=-120.148169
 CA108BusLon_W http://www.openstreetmap.org/?lat=38.089580&lon=-120.141126
 CA108BusLon_E http://www.openstreetmap.org/?lat=38.101046&lon=-120.123122

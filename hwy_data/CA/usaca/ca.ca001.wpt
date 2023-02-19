@@ -205,7 +205,7 @@ CruTr http://www.openstreetmap.org/?lat=35.842943&lon=-121.402777
 WilCrkRd http://www.openstreetmap.org/?lat=35.885578&lon=-121.458730
 PlaRidRd http://www.openstreetmap.org/?lat=35.917284&lon=-121.468835
 NacFerRd http://www.openstreetmap.org/?lat=35.988675&lon=-121.494155
-LimSP +LimBeaSP http://www.openstreetmap.org/?lat=36.008557&lon=-121.518209
+LimSP http://www.openstreetmap.org/?lat=36.008557&lon=-121.518209
 +x96 http://www.openstreetmap.org/?lat=36.021153&lon=-121.564579
 EsaIns http://www.openstreetmap.org/?lat=36.123835&lon=-121.635585
 JulPfeSP http://www.openstreetmap.org/?lat=36.158883&lon=-121.670644
@@ -291,14 +291,14 @@ ReiMarAve http://www.openstreetmap.org/?lat=37.613818&lon=-122.487141
 506 http://www.openstreetmap.org/?lat=37.636511&lon=-122.489866
 507 http://www.openstreetmap.org/?lat=37.649259&lon=-122.490837
 508 http://www.openstreetmap.org/?lat=37.668472&lon=-122.485044
-509A +509 http://www.openstreetmap.org/?lat=37.671587&lon=-122.475991
+509A http://www.openstreetmap.org/?lat=37.671587&lon=-122.475991
 509B +47B(280) http://www.openstreetmap.org/?lat=37.678704&lon=-122.471638
-510 +48(280) http://www.openstreetmap.org/?lat=37.685101&lon=-122.471413
+510 http://www.openstreetmap.org/?lat=37.685101&lon=-122.471413
 49A(280) http://www.openstreetmap.org/?lat=37.695549&lon=-122.470651
 49B(280) http://www.openstreetmap.org/?lat=37.704975&lon=-122.471595
 AleBlvd +512 http://www.openstreetmap.org/?lat=37.709521&lon=-122.471144
 BroWay http://www.openstreetmap.org/?lat=37.712755&lon=-122.471272
-JunSerBlvd_N +19thAve http://www.openstreetmap.org/?lat=37.717186&lon=-122.472571
+JunSerBlvd_N http://www.openstreetmap.org/?lat=37.717186&lon=-122.472571
 HolAve http://www.openstreetmap.org/?lat=37.721008&lon=-122.475215
 CA35 http://www.openstreetmap.org/?lat=37.734670&lon=-122.475092
 LinWay http://www.openstreetmap.org/?lat=37.765447&lon=-122.477314

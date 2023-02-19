@@ -30,8 +30,8 @@ CA49_S http://www.openstreetmap.org/?lat=37.814792&lon=-120.311756
 OldPriGrd_W http://www.openstreetmap.org/?lat=37.814781&lon=-120.298673
 +X856226 http://www.openstreetmap.org/?lat=37.820073&lon=-120.306838
 +X361686 http://www.openstreetmap.org/?lat=37.824633&lon=-120.279179
-OldPriGrd_E +OldPriGrd http://www.openstreetmap.org/?lat=37.813958&lon=-120.272001
-AndSt +VasSt http://www.openstreetmap.org/?lat=37.822599&lon=-120.261381
+OldPriGrd_E http://www.openstreetmap.org/?lat=37.813958&lon=-120.272001
+AndSt http://www.openstreetmap.org/?lat=37.822599&lon=-120.261381
 MerRd http://www.openstreetmap.org/?lat=37.835809&lon=-120.238903
 FerRd http://www.openstreetmap.org/?lat=37.839961&lon=-120.225363
 OldHwy120_W http://www.openstreetmap.org/?lat=37.835741&lon=-120.213754

@@ -80,7 +80,7 @@ RR2212 http://www.openstreetmap.org/?lat=50.396771&lon=-104.801357
 234 http://www.openstreetmap.org/?lat=50.439632&lon=-104.497876
 232 http://www.openstreetmap.org/?lat=50.447607&lon=-104.483430
 230 http://www.openstreetmap.org/?lat=50.447673&lon=-104.457675
-229 +PilButRd http://www.openstreetmap.org/?lat=50.447691&lon=-104.434859
+229 http://www.openstreetmap.org/?lat=50.447691&lon=-104.434859
 227 http://www.openstreetmap.org/?lat=50.447682&lon=-104.411729
 224 http://www.openstreetmap.org/?lat=50.447671&lon=-104.388870
 223 http://www.openstreetmap.org/?lat=50.447648&lon=-104.357827
@@ -100,7 +100,7 @@ SK617_W http://www.openstreetmap.org/?lat=50.411772&lon=-103.266377
 SK617_E http://www.openstreetmap.org/?lat=50.411854&lon=-103.220544
 SK47_S http://www.openstreetmap.org/?lat=50.411917&lon=-103.037247
 SK616 http://www.openstreetmap.org/?lat=50.408279&lon=-102.946089
-SK47_N +SK47_E http://www.openstreetmap.org/?lat=50.403790&lon=-102.922614
+SK47_N http://www.openstreetmap.org/?lat=50.403790&lon=-102.922614
 +X35 http://www.openstreetmap.org/?lat=50.403913&lon=-102.862420
 OakAccRd http://www.openstreetmap.org/?lat=50.391660&lon=-102.762230
 RR2060 http://www.openstreetmap.org/?lat=50.382500&lon=-102.693850

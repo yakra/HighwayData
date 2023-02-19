@@ -22,7 +22,7 @@ RanRd http://www.openstreetmap.org/?lat=35.416613&lon=-118.831486
 +x17 http://www.openstreetmap.org/?lat=35.493311&lon=-118.698778
 +x18 http://www.openstreetmap.org/?lat=35.512666&lon=-118.689852
 DemRd http://www.openstreetmap.org/?lat=35.529847&lon=-118.653213
-KernCanRd_E +KernCanRd http://www.openstreetmap.org/?lat=35.531977&lon=-118.632468
+KernCanRd_E http://www.openstreetmap.org/?lat=35.531977&lon=-118.632468
 +x21 http://www.openstreetmap.org/?lat=35.547242&lon=-118.615608
 +x22 http://www.openstreetmap.org/?lat=35.556949&lon=-118.615437
 +x25 http://www.openstreetmap.org/?lat=35.557856&lon=-118.587112
@@ -39,7 +39,7 @@ LakeIsaBlvd http://www.openstreetmap.org/?lat=35.642872&lon=-118.461890
 +x34 http://www.openstreetmap.org/?lat=35.651229&lon=-118.457680
 +x35 http://www.openstreetmap.org/?lat=35.658273&lon=-118.431759
 +x36 http://www.openstreetmap.org/?lat=35.649136&lon=-118.427725
-McCrayRd +McCrayBlvd http://www.openstreetmap.org/?lat=35.639642&lon=-118.405371
+McCrayRd http://www.openstreetmap.org/?lat=35.639642&lon=-118.405371
 +x40 http://www.openstreetmap.org/?lat=35.632600&lon=-118.386249
 EntBlvd http://www.openstreetmap.org/?lat=35.641609&lon=-118.370597
 SieWay http://www.openstreetmap.org/?lat=35.657140&lon=-118.322775

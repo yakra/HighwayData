@@ -13,7 +13,7 @@ IrmRd http://www.openstreetmap.org/?lat=39.394196&lon=-123.455729
 ExlLn http://www.openstreetmap.org/?lat=39.407996&lon=-123.378316
 CoaSt http://www.openstreetmap.org/?lat=39.405070&lon=-123.359237
 MainSt_N http://www.openstreetmap.org/?lat=39.404118&lon=-123.351686
-MuirMillRd +MuirCanRd http://www.openstreetmap.org/?lat=39.387742&lon=-123.345265
+MuirMillRd http://www.openstreetmap.org/?lat=39.387742&lon=-123.345265
 US101(568) http://www.openstreetmap.org/?lat=39.375851&lon=-123.325551
 +x4(CA20) http://www.openstreetmap.org/?lat=39.364222&lon=-123.315289
 +x5(CA20) http://www.openstreetmap.org/?lat=39.349546&lon=-123.322306
@@ -39,7 +39,7 @@ ParValBlvd http://www.openstreetmap.org/?lat=39.038367&lon=-122.745459
 +x86 http://www.openstreetmap.org/?lat=39.024347&lon=-122.722242
 PineSt http://www.openstreetmap.org/?lat=39.022678&lon=-122.675143
 KeysBlvd http://www.openstreetmap.org/?lat=39.025392&lon=-122.659950
-SulBankDr +SulBankRd http://www.openstreetmap.org/?lat=39.020415&lon=-122.648916
+SulBankDr http://www.openstreetmap.org/?lat=39.020415&lon=-122.648916
 CA53 http://www.openstreetmap.org/?lat=39.008467&lon=-122.614287
 OldLVRd http://www.openstreetmap.org/?lat=39.018225&lon=-122.596290
 NewLVRd http://www.openstreetmap.org/?lat=39.017679&lon=-122.571716

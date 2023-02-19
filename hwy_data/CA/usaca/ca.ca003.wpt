@@ -1,6 +1,6 @@
 CA36 http://www.openstreetmap.org/?lat=40.420155&lon=-123.175015
 +X409707 http://www.openstreetmap.org/?lat=40.425454&lon=-123.158283
-RatRd +OldCA36 http://www.openstreetmap.org/?lat=40.467200&lon=-123.169360
+RatRd http://www.openstreetmap.org/?lat=40.467200&lon=-123.169360
 +X268870 http://www.openstreetmap.org/?lat=40.483123&lon=-123.164463
 HyaRd http://www.openstreetmap.org/?lat=40.552790&lon=-123.190727
 MillAve http://www.openstreetmap.org/?lat=40.551391&lon=-123.148681
@@ -71,7 +71,7 @@ CA263 http://www.openstreetmap.org/?lat=41.740293&lon=-122.633342
 I-5 http://www.openstreetmap.org/?lat=41.739576&lon=-122.627860
 YreAgerRd http://www.openstreetmap.org/?lat=41.741157&lon=-122.598882
 PhiLn http://www.openstreetmap.org/?lat=41.735420&lon=-122.593072
-MonAirRd  +AirWay http://www.openstreetmap.org/?lat=41.724613&lon=-122.540501
+MonAirRd http://www.openstreetmap.org/?lat=41.724613&lon=-122.540501
 CRA28_S http://www.openstreetmap.org/?lat=41.724547&lon=-122.530217
 CRA28_N http://www.openstreetmap.org/?lat=41.728216&lon=-122.527648
 MonLim http://www.openstreetmap.org/?lat=41.724832&lon=-122.515619

@@ -13,7 +13,7 @@ MteeLac http://www.openstreetmap.org/?lat=45.165688&lon=-74.198004
 QC202 http://www.openstreetmap.org/?lat=45.165205&lon=-74.192516
 QC236_W http://www.openstreetmap.org/?lat=45.192427&lon=-74.148460
 QC201_S http://www.openstreetmap.org/?lat=45.214000&lon=-74.122231
-ChLar_N +ChLar http://www.openstreetmap.org/?lat=45.230212&lon=-74.114799
+ChLar_N http://www.openstreetmap.org/?lat=45.230212&lon=-74.114799
 RueEra http://www.openstreetmap.org/?lat=45.243197&lon=-74.106557
 A-530(5) http://www.openstreetmap.org/?lat=45.267156&lon=-74.079845
 QC201_N http://www.openstreetmap.org/?lat=45.272358&lon=-74.093412
@@ -35,21 +35,21 @@ QC209 http://www.openstreetmap.org/?lat=45.386984&lon=-73.557771
 ChStFX http://www.openstreetmap.org/?lat=45.381617&lon=-73.535414
 AvFou http://www.openstreetmap.org/?lat=45.377384&lon=-73.526605
 42(15) +A-15(42) http://www.openstreetmap.org/?lat=45.374940&lon=-73.519603
-44(15) +A-15(44) http://www.openstreetmap.org/?lat=45.391615&lon=-73.515031
-45(15) +A-15(45) http://www.openstreetmap.org/?lat=45.394838&lon=-73.510308
+44(15) http://www.openstreetmap.org/?lat=45.391615&lon=-73.515031
+45(15) http://www.openstreetmap.org/?lat=45.394838&lon=-73.510308
 46(15) http://www.openstreetmap.org/?lat=45.408291&lon=-73.505906
 47(15) http://www.openstreetmap.org/?lat=45.419046&lon=-73.498775
 50(15) http://www.openstreetmap.org/?lat=45.435262&lon=-73.491293
 51(15) http://www.openstreetmap.org/?lat=45.447617&lon=-73.492723
 52(15) http://www.openstreetmap.org/?lat=45.457055&lon=-73.492618
 53(15) +A-15(53) http://www.openstreetmap.org/?lat=45.467128&lon=-73.494535
-76(20) +A-20(76) http://www.openstreetmap.org/?lat=45.477376&lon=-73.502698
+76(20) http://www.openstreetmap.org/?lat=45.477376&lon=-73.502698
 78A(20) http://www.openstreetmap.org/?lat=45.484951&lon=-73.508684
-78(20) +A-20(78O) http://www.openstreetmap.org/?lat=45.494265&lon=-73.513696
-79(20) +A-20(79) http://www.openstreetmap.org/?lat=45.505008&lon=-73.518984
+78(20) http://www.openstreetmap.org/?lat=45.494265&lon=-73.513696
+79(20) http://www.openstreetmap.org/?lat=45.505008&lon=-73.518984
 81(20) +A-20(81) http://www.openstreetmap.org/?lat=45.520601&lon=-73.523979
 82(20) +A-20(82) http://www.openstreetmap.org/?lat=45.530764&lon=-73.521709
-85(20) +A-20(85) http://www.openstreetmap.org/?lat=45.550452&lon=-73.501968
+85(20) http://www.openstreetmap.org/?lat=45.550452&lon=-73.501968
 89(20) +A-20(89) http://www.openstreetmap.org/?lat=45.580136&lon=-73.474009
 17 http://www.openstreetmap.org/?lat=45.593560&lon=-73.460683
 18 http://www.openstreetmap.org/?lat=45.600652&lon=-73.448979

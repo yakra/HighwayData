@@ -11,7 +11,7 @@ MerRd http://www.openstreetmap.org/?lat=40.541693&lon=-120.622507
 +x24 http://www.openstreetmap.org/?lat=40.640428&lon=-120.657263
 +x25 http://www.openstreetmap.org/?lat=40.676565&lon=-120.657606
 +x28 http://www.openstreetmap.org/?lat=40.715629&lon=-120.676489
-CRA1 +CHA1 http://www.openstreetmap.org/?lat=40.738915&lon=-120.710049
+CRA1 http://www.openstreetmap.org/?lat=40.738915&lon=-120.710049
 CleRd http://www.openstreetmap.org/?lat=40.768452&lon=-120.726192
 +x30 http://www.openstreetmap.org/?lat=40.796704&lon=-120.724983
 +x35 http://www.openstreetmap.org/?lat=40.856034&lon=-120.759616
@@ -41,7 +41,7 @@ Mea +TicRd http://www.openstreetmap.org/?lat=41.627000&lon=-121.224239
 NF97 http://www.openstreetmap.org/?lat=41.670708&lon=-121.257198
 Rd136 http://www.openstreetmap.org/?lat=41.702273&lon=-121.280773
 +x65 http://www.openstreetmap.org/?lat=41.734329&lon=-121.297989
-Rd114 +OldAltHwy http://www.openstreetmap.org/?lat=41.844667&lon=-121.310692
+Rd114 http://www.openstreetmap.org/?lat=41.844667&lon=-121.310692
 EurSt http://www.openstreetmap.org/?lat=41.882676&lon=-121.370446
 OsbRd http://www.openstreetmap.org/?lat=41.953855&lon=-121.469736
 CA/OR http://www.openstreetmap.org/?lat=41.998292&lon=-121.519604

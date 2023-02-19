@@ -2,7 +2,7 @@
 1A http://www.openstreetmap.org/?lat=34.014805&lon=-118.485876
 1B http://www.openstreetmap.org/?lat=34.023884&lon=-118.471536
 2A http://www.openstreetmap.org/?lat=34.027717&lon=-118.453640
-2B +2C http://www.openstreetmap.org/?lat=34.028224&lon=-118.449344
+2B http://www.openstreetmap.org/?lat=34.028224&lon=-118.449344
 3 http://www.openstreetmap.org/?lat=34.031259&lon=-118.433561
 4 http://www.openstreetmap.org/?lat=34.031801&lon=-118.417082
 5 http://www.openstreetmap.org/?lat=34.029637&lon=-118.403123
@@ -60,7 +60,7 @@
 38B http://www.openstreetmap.org/?lat=34.070297&lon=-117.864541
 40 http://www.openstreetmap.org/?lat=34.068750&lon=-117.839517
 41 http://www.openstreetmap.org/?lat=34.063947&lon=-117.812007
-42A +42 http://www.openstreetmap.org/?lat=34.065214&lon=-117.806531
+42A http://www.openstreetmap.org/?lat=34.065214&lon=-117.806531
 42B http://www.openstreetmap.org/?lat=34.066783&lon=-117.803146
 43 http://www.openstreetmap.org/?lat=34.072803&lon=-117.787540
 44 http://www.openstreetmap.org/?lat=34.072870&lon=-117.778329

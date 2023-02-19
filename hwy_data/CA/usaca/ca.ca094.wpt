@@ -19,7 +19,7 @@
 10B http://www.openstreetmap.org/?lat=32.746524&lon=-116.989943
 11 http://www.openstreetmap.org/?lat=32.744511&lon=-116.974525
 12 http://www.openstreetmap.org/?lat=32.744755&lon=-116.964424
-CRS17 +JamBlvd_S http://www.openstreetmap.org/?lat=32.739885&lon=-116.951566
+CRS17 http://www.openstreetmap.org/?lat=32.739885&lon=-116.951566
 CA54 http://www.openstreetmap.org/?lat=32.739557&lon=-116.942500
 MilRanRd http://www.openstreetmap.org/?lat=32.731069&lon=-116.937898
 SteCanRd http://www.openstreetmap.org/?lat=32.727656&lon=-116.909321

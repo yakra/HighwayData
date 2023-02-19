@@ -1,4 +1,4 @@
-AK1 +0 http://www.openstreetmap.org/?lat=61.553379&lon=-149.247497
+AK1 http://www.openstreetmap.org/?lat=61.553379&lon=-149.247497
 TruRd http://www.openstreetmap.org/?lat=61.562648&lon=-149.266347
 HyerRd http://www.openstreetmap.org/?lat=61.567751&lon=-149.313287
 SewMerPkwy http://www.openstreetmap.org/?lat=61.571092&lon=-149.359924
@@ -120,7 +120,7 @@ KobeRd http://www.openstreetmap.org/?lat=64.213557&lon=-149.299135
 BenWay http://www.openstreetmap.org/?lat=64.219250&lon=-149.262604
 +X46 http://www.openstreetmap.org/?lat=64.254644&lon=-149.188285
 +X47 http://www.openstreetmap.org/?lat=64.268584&lon=-149.121294
-CleRd +ClrAirFS http://www.openstreetmap.org/?lat=64.286279&lon=-149.095737
+CleRd http://www.openstreetmap.org/?lat=64.286279&lon=-149.095737
 +X50 http://www.openstreetmap.org/?lat=64.325929&lon=-149.036064
 +X51 http://www.openstreetmap.org/?lat=64.359674&lon=-149.046192
 +X51A http://www.openstreetmap.org/?lat=64.369311&lon=-149.028575
@@ -169,4 +169,4 @@ UniAve http://www.openstreetmap.org/?lat=64.824513&lon=-147.817000
 +X80 http://www.openstreetmap.org/?lat=64.820661&lon=-147.808943
 PegRd http://www.openstreetmap.org/?lat=64.820974&lon=-147.778585
 CusSt http://www.openstreetmap.org/?lat=64.820400&lon=-147.711031
-AK2 +999 http://www.openstreetmap.org/?lat=64.821037&lon=-147.705313
+AK2 http://www.openstreetmap.org/?lat=64.821037&lon=-147.705313

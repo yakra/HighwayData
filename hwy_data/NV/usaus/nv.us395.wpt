@@ -15,7 +15,7 @@ US50_W http://www.openstreetmap.org/?lat=39.120747&lon=-119.771919
 5(580) +39 http://www.openstreetmap.org/?lat=39.174736&lon=-119.740540
 6(580) +41 http://www.openstreetmap.org/?lat=39.190025&lon=-119.754174
 7(580) http://www.openstreetmap.org/?lat=39.198298&lon=-119.774653
-8(580) +43 +US395BusCar_N http://www.openstreetmap.org/?lat=39.202923&lon=-119.780710
+8(580) http://www.openstreetmap.org/?lat=39.202923&lon=-119.780710
 10(580) +44 http://www.openstreetmap.org/?lat=39.213411&lon=-119.806687
 12(580) http://www.openstreetmap.org/?lat=39.247174&lon=-119.813811
 16(580) +50 +I-580(50) http://www.openstreetmap.org/?lat=39.305538&lon=-119.826025
@@ -30,7 +30,7 @@ US50_W http://www.openstreetmap.org/?lat=39.120747&lon=-119.771919
 31(580) +63 http://www.openstreetmap.org/?lat=39.478516&lon=-119.789937
 32(580) http://www.openstreetmap.org/?lat=39.492974&lon=-119.784642
 33(580) +I-580(65) +I-580(65A) http://www.openstreetmap.org/?lat=39.505878&lon=-119.780423
-34(580) +I-580(66) http://www.openstreetmap.org/?lat=39.519784&lon=-119.783378
+34(580) http://www.openstreetmap.org/?lat=39.519784&lon=-119.783378
 35(580) http://www.openstreetmap.org/?lat=39.527464&lon=-119.783893
 36(580) +68 +I-580(68) http://www.openstreetmap.org/?lat=39.537235&lon=-119.787959
 69 +OddBlvd http://www.openstreetmap.org/?lat=39.545411&lon=-119.787916
@@ -39,7 +39,7 @@ US50_W http://www.openstreetmap.org/?lat=39.120747&lon=-119.771919
 72 http://www.openstreetmap.org/?lat=39.589741&lon=-119.826454
 73 http://www.openstreetmap.org/?lat=39.600017&lon=-119.837526
 74 http://www.openstreetmap.org/?lat=39.611086&lon=-119.851055
-76 +SteBlvd http://www.openstreetmap.org/?lat=39.619111&lon=-119.882212
+76 http://www.openstreetmap.org/?lat=39.619111&lon=-119.882212
 78 http://www.openstreetmap.org/?lat=39.626276&lon=-119.916061
 +X04 http://www.openstreetmap.org/?lat=39.628521&lon=-119.930392
 80 http://www.openstreetmap.org/?lat=39.643842&lon=-119.958258

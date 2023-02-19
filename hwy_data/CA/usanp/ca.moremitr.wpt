@@ -1,4 +1,4 @@
-CRE16 +CRE16_S http://www.openstreetmap.org/?lat=38.719959&lon=-120.574396
+CRE16 http://www.openstreetmap.org/?lat=38.719959&lon=-120.574396
 BonRd http://www.openstreetmap.org/?lat=38.709780&lon=-120.548483
 CapCroRd http://www.openstreetmap.org/?lat=38.727305&lon=-120.527921
 ParkCrkRd http://www.openstreetmap.org/?lat=38.727635&lon=-120.491942
@@ -9,4 +9,4 @@ LigCanRd http://www.openstreetmap.org/?lat=38.701010&lon=-120.371672
 SilForkRd http://www.openstreetmap.org/?lat=38.657096&lon=-120.248456
 +x10 http://www.openstreetmap.org/?lat=38.639299&lon=-120.247765
 +x11 http://www.openstreetmap.org/?lat=38.628069&lon=-120.230384
-CA88 +CA88_W +CA88_S http://www.openstreetmap.org/?lat=38.628149&lon=-120.208706
+CA88 http://www.openstreetmap.org/?lat=38.628149&lon=-120.208706
